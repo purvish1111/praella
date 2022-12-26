@@ -1,1 +1,1 @@
-This is an simple HTML based Webpage. It is completely mobile responsive.
+This is an simple HTML based Webpage. It is completely mobile responsive. I have used latest version of bootstrap & I have integrated this page with HTML5 & CSS3.
