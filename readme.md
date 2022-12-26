@@ -1,0 +1,1 @@
+This is an simple HTML based Webpage. It is completely mobile responsive.
